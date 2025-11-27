@@ -11,8 +11,6 @@ Se implementaron y compararon cuatro enfoques:
 - **Greedy Constructivo**, diseñado para obtener soluciones rápidas como baseline.
 - **Solver LKH 3.0**, utilizado como referencia por su alta eficacia en TSP.
 
-El proyecto incluye pruebas sobre instancias TSPLIB y un caso real aplicado a logística de vacunación en el sur de Chile.
-
 ---
 
 ## Enfoques Implementados
