@@ -49,5 +49,5 @@ Interpretación:
 
 ## Autores
 
-Sergio Villegas Osores
-Azul Alanya Chota
+- Sergio Villegas Osores
+- Azul Alanya Chota
